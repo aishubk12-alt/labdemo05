@@ -1,0 +1,4 @@
+student management website
+adding student
+module: student login
+module:student registration
